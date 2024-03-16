@@ -138,6 +138,15 @@ h2 {
     scrollbar-color: var(--bs-dark);
 }
 
+a {
+    font-family: var(--bs-font-monospace);
+    color: var(--bs-light-bg-subtle);
+    font-weight: var(--bs-body-font-weight);
+    scrollbar-width: 1px;
+    scroll-behavior: smooth;
+    scrollbar-color: var(--bs-dark);
+}
+
 .section {
     display: flex;
     align-items: center; 
